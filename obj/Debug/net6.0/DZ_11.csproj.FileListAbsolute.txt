@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.AssemblyInfo.cs
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\DZ_11\bin\Debug\net6.0\DZ_11.exe
+C:\Users\acer\Desktop\DZ_11\bin\Debug\net6.0\DZ_11.deps.json
+C:\Users\acer\Desktop\DZ_11\bin\Debug\net6.0\DZ_11.runtimeconfig.json
+C:\Users\acer\Desktop\DZ_11\bin\Debug\net6.0\DZ_11.dll
+C:\Users\acer\Desktop\DZ_11\bin\Debug\net6.0\DZ_11.pdb
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.dll
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\refint\DZ_11.dll
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.pdb
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\DZ_11.genruntimeconfig.cache
+C:\Users\acer\Desktop\DZ_11\obj\Debug\net6.0\ref\DZ_11.dll
